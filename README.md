@@ -1,6 +1,6 @@
-# Simon
+# Juego de memoria Simon
+Aplicación realizada con el objetivo de realizar un juego básico en javascript repitiendo secuencias y manejando tiempos, utilizar localstore para manejar los datos que se generan y ajax para guardarlos en la base de datos.
 
-Juego de memoria Simon
 * Sin limite de fallos, ni tiempo
 * Se puede solicitar repetir la secuencia
 * Guardado automatico de puntos
@@ -15,6 +15,10 @@ A implementar:
 Estado del proyecto: en curso.
 
 * Visualizar en línea: https://yojhanyac.000webhostapp.com/Simon
+
+```
+Para juegar es necesario tener activados las cookies, javascript y el sonido.
+```
 
 Herramientas utilizadas: PHP, SQL, Javascript, JQuery, AJAX, XAMPP, MySQL WorkBench
 
