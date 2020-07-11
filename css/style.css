@@ -1,0 +1,125 @@
+html, body, main {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px;
+    background: black;
+}
+
+svg {
+    height: 100vh;
+}
+main {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+}
+#c1 {
+    stroke: black;
+    fill: red;
+    color: #ff0000;
+    color: #ffff00;
+    color: #00ff00;
+    color: #0000ff;
+    
+}
+#menu {
+    min-width: 57vmin;
+    min-height: 57vmin;
+    background: rgba(255, 166, 0, 0.863);
+    position: absolute;
+    border-radius: 30vh;
+    overflow: hidden;
+}
+
+#menuTeclado {
+    min-width: 42vmin;
+    min-height: 42vmin;
+    background: rgba(255, 166, 0, 0.863);
+    position: absolute;
+    border-radius: 30vh;
+    overflow: hidden;
+}
+
+li{
+    width: 100%;
+    height: 15%;
+    list-style: none;
+    font-size: 7vmin;
+    background: wheat;
+}
+
+.ranking {
+    height: auto;
+    font-size: 6vmin;
+    background: orange;
+    color: black;
+}
+
+.ranking:first-child {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: wheat;
+}
+
+.ranking:last-child {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: wheat;
+}
+
+.button-ranking {
+    color: black;
+}
+
+.title-ranking {
+    color: black;
+}
+
+.ul-ranking {
+    align-content: center;
+}
+
+ul {
+    position: absolute;
+    padding: 0 0;
+    margin: 0 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    align-content: space-around;
+    justify-content: space-evenly;
+    
+}
+#c2 {
+    stroke: black;
+    fill: green;
+}
+#c3 {
+    stroke: black;
+    fill: blue;
+}
+#c4 {
+    stroke: black;
+    fill: yellow;
+}
+
+#textGame {
+    font-family: 'Times New Roman';
+    fill       : white;
+}
+
+span {
+    color: red;
+    width: 100%;
+    margin: 0.5% 1% 1% 1%;
+}
+
+@media(max-width: 870px){
+    #menu{
+        min-width: 55vmin;
+    min-height: 55vmin;
+    }
+}

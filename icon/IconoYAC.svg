@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 15px;
+      }
+
+      .cls-2 {
+        font-size: 208.333px;
+        font-family: "Cambria Math";
+      }
+    </style>
+  </defs>
+  <rect id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" x="13" y="13" width="375" height="375" rx="10" ry="10"/>
+  <text id="Y" class="cls-2" x="36.886" y="275">Y</text>
+  <text id="A" class="cls-2" x="136.25" y="275">A</text>
+  <text id="C" class="cls-2" x="247.209" y="275">C</text>
+</svg>

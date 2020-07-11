@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 25px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 486.111px;
+        font-family: "Cambria Math";
+      }
+    </style>
+  </defs>
+  <path id="Rectángulo_redondeado_2" data-name="Rectángulo redondeado 2" class="cls-1" d="M43,13H358a30,30,0,0,1,30,30V358a30,30,0,0,1-30,30H43a30,30,0,0,1-30-30V43A30,30,0,0,1,43,13Z"/>
+  <text id="Y" class="cls-2" x="60.433" y="365">Y</text>
+</svg>
