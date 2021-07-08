@@ -9,12 +9,12 @@ Aplicación realizada con el objetivo de realizar un juego básico en javascript
 * Registro por usuario y correo
 * Utilización de flechas del teclado para accionar los botones
 
-A implementar:
+Posibles mejoras:
 * Cambios y mejoras en el diseño del juego en general
 
-Estado del proyecto: en curso.
+Estado del proyecto: Finalizado.
 
-* Visualizar en línea: https://yojhanyac.000webhostapp.com/Simon
+* Visualizar en línea: https://warika.com.ar/simon/
 
 ```
 Para juegar es necesario tener activados las cookies, javascript y el sonido.
